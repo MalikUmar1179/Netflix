@@ -11,7 +11,7 @@ body {
 }
 
 .main {
-    background-image: url("bg.jpg");
+    background-image: url("bg.png");
     background-position: center center;
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;
@@ -30,11 +30,12 @@ body {
 
 nav {
     max-width: 60vw;
-    justify-content: space-between;
+    justify-content:space-between;
     margin: auto;
     display: flex;
     align-items: center;
     height: 100px;
+    
 }
 
 nav img {
@@ -234,7 +235,7 @@ footer .questions {
 
 
 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 13px) {
 
     nav{
         max-width: 90vw;
